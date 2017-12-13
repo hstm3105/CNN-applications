@@ -1,2 +1,2 @@
 # CNN_MNIST
-Implementation of Convolutional Neural Network on the MNIST image dataset using Keras.
+Implementation of Convolutional Neural Network on common dataset such as MNIST, CIFAR10 using Keras.
